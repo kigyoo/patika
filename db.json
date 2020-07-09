@@ -1,4 +1,5 @@
-[
+{
+  "products": [
   {
     "id": 1,
     "name": "Anisi Fructus 50g",
@@ -112,3 +113,4 @@
     "checked": true
   }
 ]
+}
