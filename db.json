@@ -1,22 +1,114 @@
-{
-    "glossary": {
-        "title": "example glossary",
-		"GlossDiv": {
-            "title": "S",
-			"GlossList": {
-                "GlossEntry": {
-                    "ID": "SGML",
-					"SortAs": "SGML",
-					"GlossTerm": "Standard Generalized Markup Language",
-					"Acronym": "SGML",
-					"Abbrev": "ISO 8879:1986",
-					"GlossDef": {
-                        "para": "A meta-markup language, used to create markup languages such as DocBook.",
-						"GlossSeeAlso": ["GML", "XML"]
-                    },
-					"GlossSee": "markup"
-                }
-            }
-        }
-    }
-}
+[
+  {
+    "id": 1,
+    "name": "Anisi Fructus 50g",
+    "stock": 78,
+    "price": 3758,
+    "checked": true
+  },
+  {
+    "id": 2,
+    "name": "Crem. Aquos. 100g",
+    "stock": 23,
+    "price": 1841,
+    "checked": true
+  },
+  {
+    "id": 3,
+    "name": "Emuls. Ol. Jecor. 200g",
+    "stock": 48,
+    "price": 2566,
+    "checked": false
+  },
+  {
+    "id": 4,
+    "name": "Calendulae Flos 50g",
+    "stock": 19,
+    "price": 2002,
+    "checked": true
+  },
+  {
+    "id": 5,
+    "name": "Anisi Fructus 50g",
+    "stock": 64,
+    "price": 3086,
+    "checked": true
+  },
+  {
+    "id": 6,
+    "name": "Crem. Aquos. 100g",
+    "stock": 7,
+    "price": 380,
+    "checked": true
+  },
+  {
+    "id": 7,
+    "name": "Emuls. Ol. Jecor. 200g",
+    "stock": 46,
+    "price": 493,
+    "checked": false
+  },
+  {
+    "id": 8,
+    "name": "Calendulae Flos 50g",
+    "stock": 58,
+    "price": 2945,
+    "checked": true
+  },
+  {
+    "id": 9,
+    "name": "Anisi Fructus 50g",
+    "stock": 29,
+    "price": 2313,
+    "checked": true
+  },
+  {
+    "id": 10,
+    "name": "Crem. Aquos. 100g",
+    "stock": 93,
+    "price": 2176,
+    "checked": true
+  },
+  {
+    "id": 11,
+    "name": "Emuls. Ol. Jecor. 200g",
+    "stock": 39,
+    "price": 857,
+    "checked": false
+  },
+  {
+    "id": 12,
+    "name": "Calendulae Flos 50g",
+    "stock": 42,
+    "price": 1933,
+    "checked": true
+  },
+  {
+    "id": 13,
+    "name": "Anisi Fructus 50g",
+    "stock": 1,
+    "price": 3788,
+    "checked": true
+  },
+  {
+    "id": 14,
+    "name": "Crem. Aquos. 100g",
+    "stock": 76,
+    "price": 4166,
+    "checked": true
+  },
+  {
+    "id": 15,
+    "name": "Emuls. Ol. Jecor. 200g",
+    "stock": 93,
+    "price": 3605,
+    "checked": false
+  },
+  {
+    "id": 16,
+    "name": "Calendulae Flos 50g",
+    "stock": 57,
+    "price": 4282,
+    "checked": true
+  }
+]
